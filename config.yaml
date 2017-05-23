@@ -1,5 +1,4 @@
 baseurl : https://leonardobalarini.github.io/
-#baseurl : "http://localhost/blog/"
 languageCode : "pt-br"
 title : "Leonardo Balarini"
 theme : "hugo-creative-portfolio-theme"
