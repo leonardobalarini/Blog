@@ -10,7 +10,6 @@ disqusShortname : ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics : ""
 uglyurls : false
-publishDir : "docs"
 
 taxonomies:
   category : "categorias"
